@@ -33,7 +33,7 @@ export default function Home({ pokemons }) {
         <Image
           src="/images/pokeball.png"
           width="50"
-          height="50"
+          height="60"
           alt="pokedex"
         />
       </div>
